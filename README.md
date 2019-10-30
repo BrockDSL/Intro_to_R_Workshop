@@ -3,7 +3,7 @@
 
 # Intro to R
 
-![R image](rimg.png)
+![R image](rimg.jpg)
 
 This workshop serves as an introduction to the R programming language as well as to the R Studio Interface.  By the end of this workshop you should learn the following:
 
